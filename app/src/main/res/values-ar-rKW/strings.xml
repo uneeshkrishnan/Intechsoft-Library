@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KFH</string>
+    <string name="tryagain">من فضلك حاول مرة أخرى بعد بعض من الوقت.</string>
+    <string name="OK">حسنا</string>
+    <string name="Yes">نعم فعلا</string>
+    <string name="No">لا</string>
+    <string name="no_connection">لا يوجد اتصال</string>
+    <string name="no_connection_msg">الرجاء التحقق من اتصال الانترنت الخاص بك</string>
+    <string name="wait_msg">ارجوك انتظر...</string>
+    <string name="exit_question">هل تريد الاغلاق</string>
+    <string name="send_email">ارسل بريد الكتروني..</string>
+</resources>
