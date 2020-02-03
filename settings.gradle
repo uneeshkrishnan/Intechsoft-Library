@@ -1,2 +1,2 @@
-include ':app'
+include ':intechandroidlibrary'
 rootProject.name='Intechsoft Library'
