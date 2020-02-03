@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="header_text">20sp</dimen>
-    <dimen name="subheaderText">16sp</dimen>
-    <dimen name="apptitleheaderText">24sp</dimen>
-</resources>

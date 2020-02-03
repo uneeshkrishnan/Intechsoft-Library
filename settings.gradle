@@ -1,2 +1,2 @@
-include ':intechandroidlibrary'
+include ':intechandroidlibrary', ':librarytester'
 rootProject.name='Intechsoft Library'
